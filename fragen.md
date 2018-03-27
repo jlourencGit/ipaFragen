@@ -1,0 +1,31 @@
+# Fragen für die IPA
+
+- Was ist REST?
+- Welche Verbs gibt es in REST?
+- Wann soll welcher Verb genutzt werden?
+- Was ist node? Wieso gibt es node?
+- Was ist Typescript?
+- Welches Protokoll nutzt ihr in eurem Node Applikationen
+- Was ist tsconf.json?
+- Was ist npm?
+- Wie kann ich sehen welche Pakete instaliert worden sind?
+- Wie kann ich ein Paket für die Entwicklung installieren?
+- Was ist Gulp?
+- Welche andere Alternativen gibt es zu Gulp?
+- Wann wird Gulp eingesetzt?
+- Was ist Babel?
+- Was mache Babel, wieso ist Babel wichtig?
+- Was versteht sich unter einen Entwicklungsworkflow?
+- Was ist Ecmascript?
+- Welche Versionen davon gibt es?
+- Welche ist Version die du heute für deine Entwicklung nutzt?
+- Was ist Bootstrap?
+- Wieso gibt es Bootstrap?
+- Welche Version von Bootstrap gibt es?
+- Was sind die Prinzipien von Bootstrap 4?
+- Was ist ein Linter?
+- Wieso wird es eingesetzt, was bringt es?
+- Was ist JSON?
+- Wieso wurde JSON erstellt?
+- Was sind die stärke und schwäche von JSON?
+- 
