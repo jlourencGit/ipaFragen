@@ -102,19 +102,26 @@
 - Was sind die stärke und schwäche von JSON?
     - Stärken: weitverbreitet und unterstützt, es wird auf der Serverseite geparst -> schnell, 
     - Schwächen: Sicherheit, kein Error Handling
+    
 - Was ist CDN?
     - Content Delivery Network, sind über das Internet verbundene Server, mit dem man regional meist grosse Daten verteilen kann. Das macht man, weil eine Verbindung zu einem beispielsweie in Amerika stehender Server viel länger geht, als zu einem Regionalen in der Schweiz.
+    
 - Was ist SASS?
     - Syntactically Awesome Stylesheets, ist eine Stylesheet-Sprache, mit der man mehr erreichen kann mit wenniger Code. Es beinhaltet beispielsweise Schleifen, Variabeln etc. Es ist in JSON geschrieben
-- Was ist Web Packet?
-    - Mit Web Packet kann man Code-Dateien schlanker und kleiner machen. Somit können die Daten schneller übermittelt werden
+    
+- Was ist Webpack?
+    - Mit Webpack kann man JavaScript Code schlanker und kleiner machen. Somit können die Daten schneller übermittelt werden.
+    
 - Was ist Babel, für was kann man das brauchen?
-    - Mit Babel kann man Code umkompilieren. Wenn man z.B. Code für eine spezielle IE Version bruacht, kann man den Code mit Babel kompilieren
+    - Mit Babel kann man Code umkompilieren. Wenn man z.B. Code für eine spezielle IE Version bruacht, kann man den Code mit Babel kompilieren.
+    
 - Was genau ist http?
     - Hypertext Tranfer Protocol, es ist ein zustandloses Protokoll, sprich es "vergisst" den Client wieder. Es wird hauptsächlich eingesetzt, um Webseiten aus dem Internet in einen Browser zu laden.
+    
 - Was für wichtige Informationen gibt es über IP-Adressen zu wissen?
     - Das Internet Protocol ist in verschiedenen Klassen aufgeteilt. Die Klassen A, B, C und D befinden sich im Gebrauch, die klasse E ist für zukünfige Zwecke reserviert. Der Aufbau der Adresse ist für jede Klasse anders.
     - Eine IP Adresse ist technisch gesehen ein Binär Code, der aus 32 Bits und 4 Bytes besteht (ipv4)
+    
 - Was ist das OSI Model? Welche Schichten hat es?
     - Zweck des OSI-Modells ist, Kommunikation über unterschiedlichste technische Systeme hinweg zu ermöglichen.
     - Schicht 1 – Bitübertragungsschicht (Physical Layer) 
